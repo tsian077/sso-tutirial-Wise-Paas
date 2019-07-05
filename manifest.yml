@@ -1,0 +1,6 @@
+---
+application:
+- name: sso-tutorial-jimmy
+  memory: 128M
+  buildpack : staticfile_buildpack
+  dist_quota: 128M
